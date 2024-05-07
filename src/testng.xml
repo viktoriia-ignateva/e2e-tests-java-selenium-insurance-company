@@ -18,9 +18,9 @@
         </classes>
     </test>
 
-    <test name = "Test">
+    <test name = "CreateNewPolicyTest">
         <classes>
-            <class name = "TestTest" />
+            <class name = "CreateNewPolicyTest" />
         </classes>
     </test>
 
