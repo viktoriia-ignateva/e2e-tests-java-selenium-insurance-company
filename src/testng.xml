@@ -1,0 +1,27 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name = "SimpleInsuranceTestSuite">
+    <listeners>
+        <listener class-name="utils.LoggingListener"/>
+    </listeners>
+
+    <test name = "CreateBatchInsurancePoliciesTest">
+        <classes>
+            <class name = "CreateBatchInsurancePoliciesTest" />
+        </classes>
+    </test>
+
+    <test name = "ListingFunctionalityTest">
+        <classes>
+            <class name = "ListingFunctionalityTest" />
+        </classes>
+    </test>
+
+    <test name = "Test">
+        <classes>
+            <class name = "TestTest" />
+        </classes>
+    </test>
+
+</suite>
